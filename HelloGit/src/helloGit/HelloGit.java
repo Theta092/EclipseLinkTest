@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("Mr derkins.");
 		//thank you
+		System.out.println("thank you");
 
 	}
 
